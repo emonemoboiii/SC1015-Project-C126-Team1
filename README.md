@@ -19,9 +19,9 @@ This is a project for SC1015 - Intro to Data Science and AI) which focuses on th
 
 # Key Takeaways from our primary EDA
 1. Number of Outliers
-  ## a. Production Cost has 10 outliers.
-  b. Worldwide Gross has 17 outliers.
-  c. Runtime has 5 outliers.
+a. Production Cost has 10 outliers.
+b. Worldwide Gross has 17 outliers.
+c. Runtime has 5 outliers.
 
 2. Skewness of Data
   a. Production Cost has sknewness of 0.706946
