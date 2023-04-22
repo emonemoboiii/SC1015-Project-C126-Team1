@@ -36,11 +36,11 @@ This is a project for SC1015 - Intro to Data Science and AI) which focuses on th
 - MPAA Rating (in terms of appropriateness of movie)
 
 5. RMSE & MSE Value
-  a. For Production Cost vs Worldwide Gross
+- For Production Cost vs Worldwide Gross
     - Mean Squared Error (MSE): 6.925547305890477e+16
     - Root Mean Squared Error (RMSE): 263164346.1012619 
     
-  b. For Runtime vs Worldwide Gross
+- For Runtime vs Worldwide Gross
     - Mean Squared Error (MSE): 6.149849345212966e+16
     - Root Mean Squared Error (RMSE): 247988897.84046718
 
