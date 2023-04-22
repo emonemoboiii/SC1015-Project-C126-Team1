@@ -19,21 +19,21 @@ This is a project for SC1015 - Intro to Data Science and AI) which focuses on th
 
 # Key Takeaways from our primary EDA
 1. Number of Outliers
-a. Production Cost has 10 outliers.
-b. Worldwide Gross has 17 outliers.
-c. Runtime has 5 outliers.
+- Production Cost has 10 outliers.
+- Worldwide Gross has 17 outliers.
+- Runtime has 5 outliers.
 
 2. Skewness of Data
-  a. Production Cost has sknewness of 0.706946
-  b. Worldwide Gross has sknewness of 0.873779
-  c. Runtime has sknewness of 0.3821170
+- Production Cost has sknewness of 0.706946
+- Worldwide Gross has sknewness of 0.873779
+- Runtime has sknewness of 0.3821170
   
 3. Correlation of Data
-  - Between the 2 variables (production cost & runtime), production cost has a higher         correlation value of 0.49
+- Between the 2 variables (production cost & runtime), production cost has a higher correlation value of 0.49
   
 4. Two Categorical datas were used for our analysis
-  - Genre
-  - MPAA Rating (in terms of appropriateness of movie)
+- Genre
+- MPAA Rating (in terms of appropriateness of movie)
 
 5. RMSE & MSE Value
   a. For Production Cost vs Worldwide Gross
