@@ -37,11 +37,6 @@ This is a project for SC1015 - Intro to Data Science and AI) which focuses on th
 - Genre
 - MPAA Rating (in terms of appropriateness of movie)
 
-5. RMSE & MSE Value
-- For Production Cost vs Worldwide Gross
-    - Mean Squared Error (MSE): 6.925547305890477e+16
-    - Root Mean Squared Error (RMSE): 263164346.1012619 
-
 # Learning Points
 - Random Tree
 - Autocorrelation
@@ -52,6 +47,5 @@ This is a project for SC1015 - Intro to Data Science and AI) which focuses on th
 - @valentinotok (Tok Valentino) - Data Cleaning, Random Tree, Time Series ARIMA
 
 # References
-- https://machinelearningmastery.com/xgboost-for-regression/
 - https://machinelearningmastery.com/arima-for-time-Aseries-forecasting-with-python/
-
+- http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
