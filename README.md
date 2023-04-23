@@ -56,6 +56,6 @@ This is a project for SC1015 - Intro to Data Science and AI) which focuses on th
 - @valentinotok (Tok Valentino) - Data Cleaning, EDA and Visualisation, Random Tree
 
 # References
-https://machinelearningmastery.com/xgboost-for-regression/
-https://machinelearningmastery.com/arima-for-time-Aseries-forecasting-with-python/
+- https://machinelearningmastery.com/xgboost-for-regression/
+- https://machinelearningmastery.com/arima-for-time-Aseries-forecasting-with-python/
 
