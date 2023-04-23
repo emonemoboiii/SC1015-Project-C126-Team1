@@ -40,16 +40,11 @@ This is a project for SC1015 - Intro to Data Science and AI) which focuses on th
 - For Production Cost vs Worldwide Gross
     - Mean Squared Error (MSE): 6.925547305890477e+16
     - Root Mean Squared Error (RMSE): 263164346.1012619 
-    
-- For Runtime vs Worldwide Gross
-    - Mean Squared Error (MSE): 6.149849345212966e+16
-    - Root Mean Squared Error (RMSE): 247988897.84046718
 
 # Learning Points
 - Random Tree
 - Autocorrelation
 - Collaborating using GitHub
-
 
 # Contributors
 - @emonemoboiii (Tony Evans Adisurya) - Data Cleaning, EDA and Visualisation, Linear Regression
